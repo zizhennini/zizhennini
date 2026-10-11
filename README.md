@@ -1,5 +1,8 @@
-<h1 align="center">👋 Hi，我是 zizhennini</h1>
-<p align="center"><b>嵌入式开发者 · 边缘 AI 玩家</b></p>
+```c
+/* 嵌入式开发者 · 边缘 AI 玩家          */
+/* ESP32 · STM32 · RK3588 · LVGL       */
+/* 从点亮一颗 LED，到让机械臂自己抓东西   */
+```
 
 <p align="center">
   <img alt="ESP32" src="https://img.shields.io/badge/-ESP32%20S3-0b6bcb?style=flat-square&logo=espressif&logoColor=white"/>
@@ -42,5 +45,5 @@
 ---
 
 <p align="center">
-  📌 10+ 仓库 · 从点亮第一颗 LED 到让机械臂自己抓东西 —— 折腾不息 ⚡
+  ⚡ 折腾不息
 </p>
