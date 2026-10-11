@@ -44,13 +44,8 @@
 | 🔌 通信 | ESP-NOW · WiFi/TCP · USB (CDC/WinUSB) · I2C/SPI/SWD |
 | 🛠️ 工具链 | ESP-IDF · Keil MDK · RT-Thread · Git · CMake |
 
-### 📊 GitHub 状态
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zizhennini&show_icons=true&theme=vue-dark&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizhennini&layout=compact&theme=vue-dark&langs_count=6" height="150"/>
-</p>
-
 ---
 
-<p align="center"><i>⚡ 从点亮第一颗 LED，到让机械臂自己抓东西 —— 折腾不息</i></p>
+<p align="center">
+  📌 10+ 仓库 · 从点亮第一颗 LED 到让机械臂自己抓东西 —— 折腾不息 ⚡
+</p>
