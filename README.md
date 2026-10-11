@@ -27,11 +27,11 @@
 | 🔧 [**NexLink**](https://github.com/zizhennini/nexlink) | ESP32-S3 无线硬件调试器 |
 |---|---|
 | 🧩 一体四用 | USB **CMSIS-DAP** 探针 · 无线串口桥 · SPI/I2C/PWM 协议分析仪 · **MCP** 让 AI 直接操硬件 |
-| 🖥️ 全自研 UI | OLED 6 屏界面 + 开机动画 · 品牌化 Web 控制台 · OTA 无线升级 |
+| 🖥️ 自定义 UI | OLED 6 屏界面 + 开机动画 · Web 控制台 · OTA 无线升级 |
 
 | 🦾 [**RK3588 端侧具身智能**](https://github.com/zizhennini/RK3588-Based-Edge-Side-Embodied-Intelligent-Actuator) | 机械臂 + 边缘 AI 抓取 |
 |---|---|
-| 🤖 硬件 | RK3588 + SO-ARM101 机械臂 + 多模态传感器 |
+| 🤖 硬件 | RK3588 + SO-ARM101 机械臂 + 多模态 |
 | 🧠 软件 | RKNN · PyTorch · 目标检测/抓取规划 · LeRobot |
 
 | 🖼️ [**pcb-vis**](https://github.com/zizhennini/pcb-vis) | PCB 图像处理工具 |
