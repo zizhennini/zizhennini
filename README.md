@@ -1,8 +1,11 @@
 <p align="center">
   <b>想法一大堆，执行力掉线，在 GitHub 摸鱼养鱼🐟</b><br/>
   <br/>
-  <img src="https://shields.io/badge/开源深海潜水员-🐟?style=for-the-badge&logo=github&color=0ea5e9&colorB=1e293b">
+  <a href="https://github.com/zizhennini">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&color=38bdf8,22c55e&center=true&vCenter=true&width=800&height=70&lines=开源深海潜水员🐟">
+  </a>
 </p>
+
 
 
 
