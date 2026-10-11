@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://shields.io/badge/想法一大堆，执行力掉线，在 GitHub 摸鱼养鱼🐟-开源深海潜水员🐟?style=for-the-badge&logo=github&colorB=22272E&colorA=38bdf8">
-</p>
+<h1 align="center">
+  <b>想法一大堆，执行力掉线，在 GitHub 摸鱼养鱼🐟</b><br/>
+  <i>开源深海潜水员🐟</i>
+</h1>
+
+---
+
 
 
 <p align="center">
