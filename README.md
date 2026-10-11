@@ -1,8 +1,7 @@
-```c
-/* 嵌入式开发者 · 边缘 AI 玩家          */
-/* ESP32 · STM32 · RK3588 · LVGL       */
-/* 从点亮一颗 LED，到让机械臂自己抓东西   */
-```
+<p align="center">
+  <b>⚡ 嵌入式开发者 · 边缘 AI 玩家</b><br/>
+  <i>从点亮一颗 LED，到让机械臂自己抓东西</i>
+</p>
 
 <p align="center">
   <img alt="ESP32" src="https://img.shields.io/badge/-ESP32%20S3-0b6bcb?style=flat-square&logo=espressif&logoColor=white"/>
@@ -45,5 +44,5 @@
 ---
 
 <p align="center">
-  ⚡ 折腾不息
+  📌 10+ 仓库 · 折腾不息 ⚡
 </p>
