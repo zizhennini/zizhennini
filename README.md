@@ -1,5 +1,5 @@
-<h1 align="center">👋 你好，我是李梓振</h1>
-<p align="center"><b>嵌入式开发者 · 边缘 AI 玩家 · 竞赛选手</b></p>
+<h1 align="center">👋 Hi，我是 zizhennini</h1>
+<p align="center"><b>嵌入式开发者 · 边缘 AI 玩家</b></p>
 
 <p align="center">
   <img alt="ESP32" src="https://img.shields.io/badge/-ESP32%20S3-0b6bcb?style=flat-square&logo=espressif&logoColor=white"/>
@@ -28,11 +28,6 @@
 | 🖼️ [**image2.0**](https://github.com/zizhennini/image2.0) | PCB 图像处理工具 |
 |---|---|
 | ✨ 能力 | 图像预处理 · 颜色替换 · 智能简化 · 遮罩生成 · 批量导出 |
-
-### 🎓 竞赛与方向
-
-- 🏆 立创电子设计大赛 · RT-Thread 嵌入式大赛 · 嵌入式大赛（瑞芯微赛道）
-- 📚 计算机组成原理 · 嵌入式实时系统 · 边缘 AI
 
 ### 📚 技术栈
 
