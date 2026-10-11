@@ -34,7 +34,7 @@
 | 🤖 硬件 | RK3588 + SO-ARM101 机械臂 + 多模态传感器 |
 | 🧠 软件 | RKNN · PyTorch · 目标检测/抓取规划 · LeRobot |
 
-| 🖼️ [**image2.0**](https://github.com/zizhennini/image2.0) | PCB 图像处理工具 |
+| 🖼️ [**pcb-vis**](https://github.com/zizhennini/pcb-vis) | PCB 图像处理工具 |
 |---|---|
 | ✨ 能力 | 图像预处理 · 颜色替换 · 智能简化 · 遮罩生成 · 批量导出 |
 
