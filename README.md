@@ -1,6 +1,6 @@
 <p align="center">
   <b>想法一大堆，执行力掉线，在 GitHub 摸鱼养鱼🐟</b><br/>
-  <i>从点亮一颗 LED，到让机械臂自己抓东西</i>
+  <i>开源深海潜水员🐟</i>
 </p>
 
 <p align="center">
