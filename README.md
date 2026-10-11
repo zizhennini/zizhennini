@@ -1,9 +1,9 @@
-<h1 align="center">
+<p align="center">
   <b>想法一大堆，执行力掉线，在 GitHub 摸鱼养鱼🐟</b><br/>
-  <i>开源深海潜水员🐟</i>
-</h1>
+  <br/>
+  <img src="https://shields.io/badge/开源深海潜水员-🐟?style=for-the-badge&logo=github&color=0ea5e9&colorB=1e293b">
+</p>
 
----
 
 
 
