@@ -2,7 +2,7 @@
   <b>想法一大堆，执行力掉线，在 GitHub 摸鱼养鱼🐟</b><br/>
   <br/>
   <a href="https://github.com/zizhennini">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&color=38bdf8,22c55e&center=true&vCenter=true&width=800&height=70&lines=开源深海潜水员🐟">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&color=60a5fa,a855f7&center=true&vCenter=true&width=800&height=70&lines=开源深海潜水员🐟">
   </a>
 </p>
 
